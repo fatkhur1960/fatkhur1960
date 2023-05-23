@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur1960&label=Profile%20views&color=0e75b6&style=flat" alt="fatkhur1960" /> </p>
 
-- 💬 Ask me about **Rust, Flutter and Vuejs**
+- 💬 Ask me about **Rust, Flutter, Nextjs & Vuejs**
 
 - 📫 How to reach me **fatkhuranonym@gmail.com**
 
